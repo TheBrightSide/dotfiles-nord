@@ -1,0 +1,66 @@
+# Documents/**
+# Documents
+# Desktop/**
+# Desktop
+# Music/**
+# Music
+# Pictures/**
+# Pictures
+# Videos/**
+# Videos
+# Downloads/**
+# Downloads
+# Public/**
+# Public
+# Templates/**
+# Templates
+
+# gitclones
+# projects
+# Projects
+# snap
+
+# .cache
+# .gnupg
+# .pki
+# .ssh
+# .fehbg
+# .vboxclient*
+# core
+# .wget-hsts
+# .sudo_as_admin_successful
+
+*
+!.atom
+!.atom/**
+
+!.config
+!.config/cmus
+!.config/cmus/**
+!.config/gtk-3.0
+!.config/gtk-3.0/**
+!.config/htop
+!.config/htop/**
+!.config/i3
+!.config/i3/**
+!.config/neofetch
+!.config/neofetch/**
+!.config/qutebrowser
+!.config/qutebrowser/**
+!.config/Thunar
+!.config/Thunar/**
+!.config/alacritty.yml
+!.config/alacritty.yml/**
+!.config/compton.conf
+!.config/compton.conf/**
+
+!.local/**
+
+!.bash_logout
+!.bashrc
+!.profile
+
+!wallpaper.png
+
+!.gitignore
+!.gitprofile
