@@ -57,8 +57,13 @@
 !.local/**
 
 !.bash_logout
+!.bash_profile
 !.bashrc
 !.profile
+!.dmrc
+!.Xauthority
+!.Xclients
+!.xinitrc
 
 !wallpaper.png
 
