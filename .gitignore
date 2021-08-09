@@ -60,7 +60,6 @@
 !.bash_profile
 !.bashrc
 !.profile
-!.dmrc
 !.Xauthority
 !.Xclients
 !.xinitrc
