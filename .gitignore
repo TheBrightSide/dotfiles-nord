@@ -63,3 +63,5 @@
 !wallpaper.png
 
 !.gitignore
+
+!install_conf.sh
