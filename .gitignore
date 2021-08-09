@@ -37,8 +37,17 @@
 !.config
 !.config/cmus
 !.config/cmus/**
+.config/cmus/autosave
+.config/cmus/command-history
+.config/cmus/cache
+.config/cmus/lib.pl
+.config/cmus/search-history
+.config/cmus/playlists
+.config/cmus/playlists/**
 !.config/gtk-3.0
 !.config/gtk-3.0/**
+!.config/gtk-2.0
+!.config/gtk-2.0/**
 !.config/htop
 !.config/htop/**
 !.config/i3
@@ -53,6 +62,11 @@
 !.config/alacritty.yml/**
 !.config/compton.conf
 !.config/compton.conf/**
+!.config/BetterDiscord
+!.config/BetterDiscord/**
+.config/BetterDiscord/data/**
+!.config/BetterDiscord/data/stable/
+!.config/BetterDiscord/data/stable/**
 
 !.local/**
 

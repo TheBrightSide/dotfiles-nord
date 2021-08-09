@@ -214,6 +214,8 @@ for_window [class="^.*"] border pixel 2
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
-exec_always "compton --config ~/.config/compton.conf"
+# exec_always "xrandr --output eDP1 --right-of HDMI1 --auto"
 exec_always "xrandr --output eDP1 --left-of HDMI1 --auto"
+exec_always "compton --config ~/.config/compton.conf"
+exec_always "polybar example --config ~/.config/polybar/config"
 exec --no-startup-id "feh --bg-scale wallpaper.png"
