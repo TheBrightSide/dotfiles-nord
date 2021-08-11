@@ -1,35 +1,3 @@
-# Documents/**
-# Documents
-# Desktop/**
-# Desktop
-# Music/**
-# Music
-# Pictures/**
-# Pictures
-# Videos/**
-# Videos
-# Downloads/**
-# Downloads
-# Public/**
-# Public
-# Templates/**
-# Templates
-
-# gitclones
-# projects
-# Projects
-# snap
-
-# .cache
-# .gnupg
-# .pki
-# .ssh
-# .fehbg
-# .vboxclient*
-# core
-# .wget-hsts
-# .sudo_as_admin_successful
-
 *
 !.atom
 !.atom/**
@@ -67,6 +35,8 @@
 .config/BetterDiscord/data/**
 !.config/BetterDiscord/data/stable/
 !.config/BetterDiscord/data/stable/**
+!.config/polybar/
+!.config/polybar/**
 
 !.bash_logout
 !.bash_profile

@@ -218,5 +218,5 @@ exec --no-startup-id nm-applet
 # exec_always "xrandr --output eDP1 --right-of HDMI1 --auto"
 # exec_always "xrandr --output eDP-1 --left-of HDMI-1 --auto"
 exec_always "compton --config ~/.config/compton.conf"
-exec_always "polybar example"
+exec_always "polybar bar"
 exec --no-startup-id "feh --bg-scale --randomize wallpapers"
