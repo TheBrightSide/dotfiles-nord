@@ -68,8 +68,6 @@
 !.config/BetterDiscord/data/stable/
 !.config/BetterDiscord/data/stable/**
 
-!.local/**
-
 !.bash_logout
 !.bash_profile
 !.bashrc
@@ -79,6 +77,8 @@
 !.xinitrc
 
 !wallpaper.png
+!wallpapers
+!wallpapers/**
 
 !.gitignore
 
