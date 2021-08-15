@@ -219,4 +219,7 @@ exec --no-startup-id nm-applet
 # exec_always "xrandr --output eDP-1 --left-of HDMI-1 --auto"
 exec_always "compton --config ~/.config/compton.conf"
 exec_always "polybar bar"
-exec --no-startup-id "feh --bg-scale --randomize wallpapers"
+exec_always --no-startup-id "feh --bg-scale wallpapers/brushed-stripes.png"
+
+exec_always "setxkbmap -layout us,de,bg -variant ,qwerty,phonetic"
+exec_always "setxkbmap -option 'grp:alt_shift_toggle'"
