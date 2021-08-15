@@ -37,6 +37,8 @@
 !.config/BetterDiscord/data/stable/**
 !.config/polybar/
 !.config/polybar/**
+!.config/fish
+!.config/fish/**
 
 !.bash_logout
 !.bash_profile
