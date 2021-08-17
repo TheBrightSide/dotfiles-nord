@@ -1,6 +1,6 @@
 *
-!.atom
-!.atom/**
+# !.atom
+# !.atom/**
 
 !.config
 !.config/cmus
