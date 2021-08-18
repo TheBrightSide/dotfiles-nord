@@ -49,6 +49,7 @@
 # !.Xauthority
 !.Xclients
 !.xinitrc
+!README.md
 
 !wallpaper.png
 !wallpapers
