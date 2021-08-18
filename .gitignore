@@ -47,7 +47,7 @@
 !.bashrc
 !.profile
 # !.Xauthority
-# !.Xclients
+!.Xclients
 !.xinitrc
 
 !wallpaper.png
