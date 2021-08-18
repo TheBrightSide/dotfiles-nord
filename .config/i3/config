@@ -211,7 +211,7 @@ for_window [class="^.*"] border pixel 2
 
 
 # startup programs
-exec_always "killall -KILL polybar"
+exec_always "killall polybar"
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet

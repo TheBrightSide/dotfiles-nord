@@ -52,7 +52,7 @@ font-1 = unifont:fontformat=truetypde:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
 
 modules-left = bspwm i3
-modules-center = cmus mpris
+modules-center = mpris
 modules-right = pulseaudio memory cpu battery temperature powermenu date
 
 tray-position = right

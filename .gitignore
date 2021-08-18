@@ -30,22 +30,24 @@
 !.config/alacritty.yml/**
 !.config/compton.conf
 !.config/compton.conf/**
-!.config/BetterDiscord
-!.config/BetterDiscord/**
-.config/BetterDiscord/data/**
-!.config/BetterDiscord/data/stable/
-!.config/BetterDiscord/data/stable/**
+# !.config/BetterDiscord
+# !.config/BetterDiscord/**
+# .config/BetterDiscord/data/**
+# !.config/BetterDiscord/data/stable/
+# !.config/BetterDiscord/data/stable/**
 !.config/polybar/
 !.config/polybar/**
 !.config/fish
 !.config/fish/**
+!.config/nvim
+!.config/nvim/**
 
 !.bash_logout
 !.bash_profile
 !.bashrc
 !.profile
-!.Xauthority
-!.Xclients
+# !.Xauthority
+# !.Xclients
 !.xinitrc
 
 !wallpaper.png

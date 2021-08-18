@@ -136,6 +136,7 @@ ex ()
   fi
 }
 
+source $HOME/.cargo/env
+
 fish
 exit
-
