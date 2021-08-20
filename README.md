@@ -11,4 +11,5 @@
 - Alacritty - [theme](https://github.com/arcticicestudio/nord-alacritty)
 - Firefox - [OnelineProton](https://github.com/lr-tech/OnelineProton/); [startpage](https://github.com/Alededorigo/startpage)
 - i3 and polybar - custom configurations
+- XFCE (extra) - themes: [here](https://www.xfce-look.org/p/1267246)
 - dotfiles! - you are here!

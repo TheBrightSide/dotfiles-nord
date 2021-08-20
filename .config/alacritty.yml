@@ -1,21 +1,21 @@
 font:
   normal:
-    family: Cascadia Code
+    family: CaskaydiaCove Nerd Font
     style: Regular
 
   bold:
-    family: Cascadia Code
+    family: CaskaydiaCove Nerd Font
     style: Bold
 
   italic:
-    family: Cascadia Code
+    family: CaskaydiaCove Nerd Font
     style: Italic
 
   bold_italic:
-    family: Cascadia Code
+    family: CaskaydiaCove Nerd Font
     style: Bold Italic
 
-  size: 8.5
+  size: 11
 
 colors:
   primary:

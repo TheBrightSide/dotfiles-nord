@@ -42,6 +42,9 @@
 !.config/nvim
 !.config/nvim/**
 
+!nordic-themes
+!nordic-themes/**
+
 !.bash_logout
 !.bash_profile
 !.bashrc
